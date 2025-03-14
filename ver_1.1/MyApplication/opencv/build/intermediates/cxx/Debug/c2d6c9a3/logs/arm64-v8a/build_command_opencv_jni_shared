@@ -1,0 +1,4 @@
+/usr/bin/ninja \
+  -C \
+  /home/akshat/AndroidStudioProjects/MyApplication/opencv/.cxx/Debug/c2d6c9a3/arm64-v8a \
+  opencv_jni_shared
